@@ -8,6 +8,7 @@ Omnifood is a startup project that leverages AI to create and deliver custom hea
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
+- [Live Demo](#live-demo)
 
 ## Overview
 
@@ -61,3 +62,7 @@ To view the project locally:
 ![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-8.png "Title")
 
 ![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-9.png "Title")
+
+## Live Demo
+
+[omnifood-2408779ah-hafids-projects.vercel.app](https://omnifood-2408779ah-hafids-projects.vercel.app/)
