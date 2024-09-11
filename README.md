@@ -8,8 +8,6 @@ Omnifood is a startup project that leverages AI to create and deliver custom hea
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
