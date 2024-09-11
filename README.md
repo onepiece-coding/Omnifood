@@ -8,8 +8,7 @@ Omnifood is a startup project that leverages AI to create and deliver custom hea
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Live Demo](#live-demo)
 
 ## Overview
 
@@ -43,3 +42,27 @@ To view the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/omnifood.git
+
+## Screenshots
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-1.png "Title")
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-2.png "Title")
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-3.png "Title")
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-4.png "Title")
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-5.png "Title")
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-6.png "Title")
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-7.png "Title")
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-8.png "Title")
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-9.png "Title")
+
+## Live Demo
+
+[omnifood-2408779ah-hafids-projects.vercel.app](https://omnifood-2408779ah-hafids-projects.vercel.app/)
