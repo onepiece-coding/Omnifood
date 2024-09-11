@@ -43,3 +43,7 @@ To view the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/omnifood.git
+
+## Screenshots
+
+![ScreenShot From Omnifood](https://github.com/AlhianeDev/Omnifood/blob/main/img/github-imgs/Omnifood-Never-Cook-Again-1.png "Title")
