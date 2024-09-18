@@ -1,16 +1,5 @@
 # Omnifood
 
-Omnifood is a startup project that leverages AI to create and deliver custom healthy meal plans. Designed for busy professionals who want to eat well without spending much time or money, Omnifood offers a monthly subscription that ensures effortless healthy eating.
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Live Demo](#live-demo)
-
-## Overview
-
 Omnifood is designed to cater to the needs of busy people who are interested in technology, have a well-paying job, and value a healthy diet. Our website's personality reflects a startup/upbeat feel, combined with elements of calmness and peace, focusing on consumer well-being.
 
 ### Business Goal
